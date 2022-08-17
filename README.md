@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irlan24
 - 👀 I’m interested in learn
-- 🌱 I’m currently learning C language and C++
+- 🌱 I am currently learning CSS, HTML and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me irlan.nonato97@hotmail.com
 
